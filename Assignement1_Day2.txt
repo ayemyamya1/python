@@ -1,0 +1,10 @@
+1. Start
+2. Prepare withdrawing a sum of money at an ATM
+	2.1 Insert a card into the designated card slot
+	2.2 Fill out the 6-digits-pin
+	2.3 Select "Withdraw"
+	2.4 Select the amount, or, type the amount you want to withdraw
+	2.5 Select "Yes" if you want the receipt, otherwise, select "No"
+	2.6 Take out your card from the card slot
+	2.7 Take out your cash from the cash slot
+3. End
